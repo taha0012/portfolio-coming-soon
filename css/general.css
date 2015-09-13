@@ -1,7 +1,7 @@
 @charset "UTF-8";
 /* CSS Document */
 body {
-	background-color: #000000;
+	background-color: #FFFFFF;
 	width:100%;
 }
 h1{
@@ -11,7 +11,7 @@ h1{
 }
 p {
 	padding: 20px 50px 10px 40px;
-	color: #5C5C5C;
+	color: #FFFFFF;
 }
 li{
 	color: #5C5C5C;
