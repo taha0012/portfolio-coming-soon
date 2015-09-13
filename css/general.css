@@ -24,8 +24,14 @@ article li{
 	border-radius:80px;
 	border: 2px dotted #FFFFFF;
 }
+article li:hover,
+article li:focus,
+article li:active{
+	background-color: #ccc;
+}
 article ul{
 		clear:both;
+		padding-left:30px;
 }
 article img {
 	width: 55px;
