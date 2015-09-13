@@ -40,3 +40,15 @@ article {
 	max-width:18rem;
 	position:auto;
 }
+@media only screen and (min-width: 500px){
+article {
+	margin-left:10%;
+}
+}
+
+}
+@media only screen and (min-width: 800px){
+article {
+	margin-left:38%;
+}
+}
