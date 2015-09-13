@@ -9,3 +9,7 @@ h1{
 	padding-top:25px;
 	padding-left:100px;
 }
+p {
+	padding: 20px 50px 10px 40px;
+	color: #5C5C5C;
+}
