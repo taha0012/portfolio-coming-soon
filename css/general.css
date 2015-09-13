@@ -10,16 +10,13 @@ h1{
 	padding-left:100px;
 }
 p {
-	padding: 20px 50px 10px 40px;
+	padding: 20px 50px 50px 40px;
 	color: #5C5C5C;
 }
 li{
 	color: #5C5C5C;
 }
-.lineup{
-	margin-top:-15px;
-	margin-bottom:40px;
-}
+
 article li{
 	display: inline-block;
 }
