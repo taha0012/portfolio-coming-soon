@@ -13,3 +13,20 @@ p {
 	padding: 20px 50px 10px 40px;
 	color: #5C5C5C;
 }
+article img {
+	width: 55px;
+	float:left;
+	margin-left:40px;
+	margin-top: 30px;
+}
+
+article {
+	background-color: #FFFFFF;
+	border: 2px dotted #000000;
+	border-radius: 100px; 
+	margin-top:150px;
+	margin-left:5%;
+	font-family:Georgia, "Times New Roman", Times, serif;
+	max-width:18rem;
+	position:auto;
+}
