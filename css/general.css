@@ -16,14 +16,16 @@ p {
 
 article li{
 	color: #5C5C5C;
+	float:left;
 	text-align:center;
-	padding-left:30px;
 	display: inline-block;
 	padding-bottom:10px;
 	background-color: #000000;
 	border-radius:80px;
 	border: 2px dotted #FFFFFF;
-	
+}
+article ul{
+		clear:both;
 }
 article img {
 	width: 55px;
