@@ -1,2 +1,11 @@
 @charset "UTF-8";
 /* CSS Document */
+body {
+	background-color: #000000;
+	width:100%;
+}
+h1{
+	font-size:22px;
+	padding-top:25px;
+	padding-left:100px;
+}
