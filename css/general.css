@@ -15,12 +15,14 @@ p {
 }
 
 article li{
-	color: #5C5C5C;
 	text-align:center;
 	display: inline-block;
 	padding:15px 5px 15px 5px;
 	background-color: #000000;
 	border-radius:80px;
+}
+article li a{
+	color: #5C5C5C;
 }
 article li:hover,
 article li:focus,
