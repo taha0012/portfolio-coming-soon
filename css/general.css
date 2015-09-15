@@ -22,12 +22,12 @@ article li{
 	border-radius:80px;
 }
 article li a{
-	color: #5C5C5C;
+	color: #AAAAAA;
 }
 article li:hover,
 article li:focus,
 article li:active{
-	background-color: #ccc;
+	background-color: #7F7F7F;
 }
 article ul{
 		clear:both;
@@ -49,22 +49,22 @@ article {
 	font-family:Georgia, "Times New Roman", Times, serif;
 	max-width:18rem;
 }
-@media only screen and (min-width: 500px){
+@media only screen and (min-width: 31em){
 article {
 	margin-left:10%;
 }
 }
-@media only screen and (min-width: 600px){
+@media only screen and (min-width: 37.5em){
 article {
 	margin-left:20%;
 }
 }
-@media only screen and (min-width: 700px){
+@media only screen and (min-width: 44em){
 article {
 	margin-left:30%;
 }
 }
-@media only screen and (min-width: 800px){
+@media only screen and (min-width: 50em){
 article {
 	margin-left:38%;
 }
